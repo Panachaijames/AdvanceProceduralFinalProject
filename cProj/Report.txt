@@ -1,0 +1,116 @@
+Stock Item Number: 1234
+Stock Item Name: lol
+Stock Item Supplier Name: laa
+Stock Item Supplier Number: 123
+Re-order threshold limit: 12
+Number of unit: 12
+Cost per unit: 12.00
+Last order date: 12/12/2000
+This item need to be stored in a hazardous chemical store.
+This item belong to Office department.
+There is no specified month for it need to be re-ordered.
+Managing Director need to authorized to purchase this item.
+
+The Maintenance Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 0.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+The Office Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 100.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+Stock Item Number: 125
+Stock Item Name: Apples
+Stock Item Supplier Name: Gala
+Stock Item Supplier Number: 871234567
+Re-order threshold limit: 25
+Number of unit: 30
+Cost per unit: 0.50
+Last order date: 29/3/2020
+This item doesn't need to be stored in a hazardous chemical store.
+This item belong to Maintenance department.
+There is no specified month for it need to be re-ordered.
+Managing Director need to authorized to purchase this item.
+
+The Maintenance Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 0.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+The Office Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 100.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+Stock Item Number: 123
+Stock Item Name: Bananas
+Stock Item Supplier Name: Fyffes
+Stock Item Supplier Number: 861234567
+Re-order threshold limit: 50
+Number of unit: 100
+Cost per unit: 0.25
+Last order date: 1/4/2020
+This item doesn't need to be stored in a hazardous chemical store.
+This item belong to Office department.
+There is no specified month for it need to be re-ordered.
+Department Manager need to authorized to puchase this item.
+
+The Maintenance Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 0.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+The Office Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 100.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+Stock Item Number: 12
+Stock Item Name: jimmy
+Stock Item Supplier Name: kone
+Stock Item Supplier Number: 895678
+Re-order threshold limit: 12345
+Number of unit: 1234
+Cost per unit: 123.00
+Last order date: 12/12/2000
+This item need to be stored in a hazardous chemical store.
+This item belong to Office department.
+There is no specified month for it need to be re-ordered.
+Managing Director need to authorized to purchase this item.
+
+The Maintenance Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 0.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
+The Office Department detail:
+
+===============================
+There are 0.00 percent of stock items below the re-order threshold limit
+There are 0.00 percent of stock items below twice the re-order threshold limit
+There are 100.00 percent of stock items  above twice the re-order threshold limit
+
+===============================
